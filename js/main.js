@@ -28,6 +28,8 @@ const tvShows = [
 
 console.log(tvShows);
 
+// Empty String
+
 let content = '';
 
 for (let i = 0; i <= tvShows.length - 1; i++) {
