@@ -23,3 +23,9 @@ Was not too sure how to attatch my array to my loop so I went back to the Loops 
 The addition assignment operator `(+=)` makes sense to me but I rather do it the long way to better visualize what is going on. At least for now while I'm still new.
 
 Made the array into a list of links (double marks ;) jk)
+
+I was a bit overwhelmed at the beginning of this achievement for some reason but it wasn't that bad. 
+
+Tried to add some CSS... Besides `margin` most of the other styles that I was trying to add were messing up the page so I just took them out for now. 
+
+**Refrection:** Breaking up my coding into multiple smaller sessions seems to work best for me. My brain is able to rest and I feel like I can even stay on task a lot better. 
